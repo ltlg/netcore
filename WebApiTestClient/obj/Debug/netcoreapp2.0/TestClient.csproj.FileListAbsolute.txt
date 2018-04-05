@@ -1,0 +1,15 @@
+C:\Users\liguan\source\repos\TestIdentity\TestClient\bin\Debug\netcoreapp2.0\TestClient.deps.json
+C:\Users\liguan\source\repos\TestIdentity\TestClient\bin\Debug\netcoreapp2.0\TestClient.runtimeconfig.json
+C:\Users\liguan\source\repos\TestIdentity\TestClient\bin\Debug\netcoreapp2.0\TestClient.runtimeconfig.dev.json
+C:\Users\liguan\source\repos\TestIdentity\TestClient\bin\Debug\netcoreapp2.0\TestClient.dll
+C:\Users\liguan\source\repos\TestIdentity\TestClient\obj\Debug\netcoreapp2.0\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\liguan\source\repos\TestIdentity\TestClient\obj\Debug\netcoreapp2.0\TestClient.AssemblyInfoInputs.cache
+C:\Users\liguan\source\repos\TestIdentity\TestClient\obj\Debug\netcoreapp2.0\TestClient.AssemblyInfo.cs
+C:\Users\liguan\source\repos\TestIdentity\TestClient\bin\Debug\netcoreapp2.0\TestClient.pdb
+C:\Users\liguan\source\repos\TestIdentity\TestClient\obj\Debug\netcoreapp2.0\TestClient.dll
+C:\Users\liguan\source\repos\TestIdentity\TestClient\obj\Debug\netcoreapp2.0\TestClient.pdb
+C:\Users\liguan\source\repos\TestIdentity\TestClient\bin\Debug\netcoreapp2.0\System.IdentityModel.dll
+C:\Users\liguan\source\repos\TestIdentity\TestClient\bin\Debug\netcoreapp2.0\System.Web.ApplicationServices.dll
+C:\Users\liguan\source\repos\TestIdentity\TestClient\bin\Debug\netcoreapp2.0\System.IdentityModel.xml
+C:\Users\liguan\source\repos\TestIdentity\TestClient\bin\Debug\netcoreapp2.0\System.Web.ApplicationServices.xml
+C:\Users\liguan\source\repos\TestIdentity\TestClient\obj\Debug\netcoreapp2.0\TestClient.csprojResolveAssemblyReference.cache

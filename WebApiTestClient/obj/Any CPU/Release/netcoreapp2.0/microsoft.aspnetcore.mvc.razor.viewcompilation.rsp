@@ -1,0 +1,5 @@
+C:\Users\liguan\source\repos\TestIdentity\TestClient
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=TestClient
+--content-root=C:\Users\liguan\source\repos\TestIdentity\TestClient
+--file=
