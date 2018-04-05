@@ -1,0 +1,12 @@
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\bin\Debug\netcoreapp2.0\TestIdentity.deps.json
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\bin\Debug\netcoreapp2.0\TestIdentity.runtimeconfig.json
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\bin\Debug\netcoreapp2.0\TestIdentity.runtimeconfig.dev.json
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\bin\Debug\netcoreapp2.0\TestIdentity.dll
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\bin\Debug\netcoreapp2.0\TestIdentity.pdb
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\obj\Debug\netcoreapp2.0\TestIdentity.csproj.CoreCompileInputs.cache
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\obj\Debug\netcoreapp2.0\TestIdentity.AssemblyInfoInputs.cache
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\obj\Debug\netcoreapp2.0\TestIdentity.AssemblyInfo.cs
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\obj\Debug\netcoreapp2.0\TestIdentity.dll
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\obj\Debug\netcoreapp2.0\TestIdentity.pdb
+C:\Users\liguan\source\repos\TestIdentity\TestIdentity\obj\Debug\netcoreapp2.0\TestIdentity.csprojResolveAssemblyReference.cache
